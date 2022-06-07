@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riad5089&label=Profile%20views&color=0e75b6&style=flat" alt="riad5089" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@riadsobhan" target="blank"><img src="https://img.shields.io/twitter/follow/@riadsobhan?logo=twitter&style=for-the-badge" alt="@riadsobhan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RiadSobhan" target="blank"><img src="https://img.shields.io/twitter/follow/RiadSobhan?logo=twitter&style=for-the-badge" alt="RiadSobhan" /></a> </p>
 
 - 🌱 I’m currently learning **Machine learning**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@riadsobhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@riadsobhan" height="30" width="40" /></a>
+<a href="https://twitter.com/RiadSobhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RiadSobhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-abdur-sobhan-riad-360b521b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-abdur-sobhan-riad-360b521b1/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/md-riad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-riad" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdabdursobhanriad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdabdursobhanriad" height="30" width="40" /></a>
